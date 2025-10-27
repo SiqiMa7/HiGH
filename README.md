@@ -1,4 +1,3 @@
-<img width="958" height="88" alt="image" src="https://github.com/user-attachments/assets/cdb01154-05f9-47ce-a6c3-88afce25000d" /># HiGH
 Node importance estimation in multiplex network
 
 
